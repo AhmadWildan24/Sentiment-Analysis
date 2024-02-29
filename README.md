@@ -1,8 +1,8 @@
-# This project explores the art of prompt engineering with AI models.
+# This project explores Sentiment Analysis using Caikit and Hugging Face
 
 ## Author : @AhmadWildan24
 
-### Mentee assigment from IBM Advance AI @Infinite Learning Course Completion of The Art of Prompt Engineering from CognitiveClass.ai
+### Mentee assigment from IBM Advance AI @Infinite Learning Course Completion of Sentiment Analysis with Caikit and Hugging Face from CognitiveClass.ai
 
 ### Mentee Ingfo
 Name    : Ahmad Wildan Afifi Nasution
